@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="Pattern.Adapter/Pattern.Adapter.csproj" Id="80decf3d-04a2-4079-91ec-bc4da13a3492" />
+  <Project Path="Pattern.Builder/Pattern.Builder.csproj" />
+  <Project Path="Pattern.ChainOfResponsibilites/Pattern.ChainOfResponsibilites.csproj" Id="c589ea21-0d97-4290-863e-1e8038e28513" />
+  <Project Path="Pattern.Decorator/Pattern.Decorator.csproj" Id="39a41ae9-7127-4d49-9747-a149024fde4f" />
+  <Project Path="Pattern.FabricMethod/Pattern.FabricMethod.csproj" />
+  <Project Path="Pattern.Iterator/Pattern.Iterator.csproj" Id="fc237099-fd1a-44a3-adee-db489ca109f1" />
+  <Project Path="Pattern.Observer/Pattern.Observer.csproj" Id="47986e33-350b-434c-b20f-10995fcf92c5" />
+  <Project Path="Pattern.Singleton/Pattern.Singleton.csproj" />
+  <Project Path="Pattern.Strategy/Pattern.Strategy.csproj" />
+  <Project Path="Patterns.AbstractionFabricMethod/Patterns.AbstractionFabricMethod.csproj" />
+</Solution>
